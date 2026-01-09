@@ -1,0 +1,2 @@
+19:50:27,959 root INFO Fraiche Atelier
+19:50:40,841 root INFO Fraiche Atelier Close Attempt
