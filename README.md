@@ -22,5 +22,6 @@ Follow these steps to install and run the application:
 ---
 
 **Note:**
-- Do not delete or move any files or folders inside the application directory.
-- If you encounter issues, ensure all files are present and the folder structure is unchanged.
+- Project files are stored within a ".prs" file in the "user" folder under inside the file_storage directory.
+- Do not delete or move any files or folders inside the application directory, besides creating or deleting files in the "user" folder.  
+- If you encounter issues, ensure all files are present and the folder structure is unchanged. 
